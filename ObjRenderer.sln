@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjRenderer", "ObjRenderer\ObjRenderer.csproj", "{0604D0A4-A550-4D0C-AFA5-5FA7F1DF245B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0604D0A4-A550-4D0C-AFA5-5FA7F1DF245B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0604D0A4-A550-4D0C-AFA5-5FA7F1DF245B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0604D0A4-A550-4D0C-AFA5-5FA7F1DF245B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0604D0A4-A550-4D0C-AFA5-5FA7F1DF245B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3806268E-75BC-4F9E-BBE7-EB00E8926AE4}
+	EndGlobalSection
+EndGlobal
