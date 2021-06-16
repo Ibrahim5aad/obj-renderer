@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qdOOtXgN57cbcMc/His2G6+FXkCEqv0KmEiWX39YIqeBX9w3epufQDYQ10kole3V+AKoxeMWomilzb2hMe9ESQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ibrahim Saadd\\Desktop\\Studying\\Obj Renderer\\Obj-Renderer\\ObjRenderer\\ObjRenderer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ibrahim Saadd\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

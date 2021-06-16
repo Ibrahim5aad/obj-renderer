@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29123.88
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjRenderer", "ObjRenderer\ObjRenderer.csproj", "{0604D0A4-A550-4D0C-AFA5-5FA7F1DF245B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjLoader", "ObjLoader\ObjLoader.csproj", "{22912B1E-7571-44C7-9146-ECA02C031122}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObjRenderer", "ObjRenderer\ObjRenderer.csproj", "{E17D4BC7-A7CA-44AA-8BB8-A2468D62818F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0604D0A4-A550-4D0C-AFA5-5FA7F1DF245B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0604D0A4-A550-4D0C-AFA5-5FA7F1DF245B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0604D0A4-A550-4D0C-AFA5-5FA7F1DF245B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0604D0A4-A550-4D0C-AFA5-5FA7F1DF245B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22912B1E-7571-44C7-9146-ECA02C031122}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22912B1E-7571-44C7-9146-ECA02C031122}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22912B1E-7571-44C7-9146-ECA02C031122}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22912B1E-7571-44C7-9146-ECA02C031122}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E17D4BC7-A7CA-44AA-8BB8-A2468D62818F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E17D4BC7-A7CA-44AA-8BB8-A2468D62818F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E17D4BC7-A7CA-44AA-8BB8-A2468D62818F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E17D4BC7-A7CA-44AA-8BB8-A2468D62818F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
