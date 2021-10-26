@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ibrahim Saadd\\Desktop\\Studying\\Obj Renderer\\Obj-Renderer\\ObjLoader\\ObjLoader.csproj": {}
+    "C:\\Users\\Ibrahim Saad\\Desktop\\New folder\\Obj-Renderer\\ObjLoader\\ObjLoader.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ibrahim Saadd\\Desktop\\Studying\\Obj Renderer\\Obj-Renderer\\ObjLoader\\ObjLoader.csproj": {
+    "C:\\Users\\Ibrahim Saad\\Desktop\\New folder\\Obj-Renderer\\ObjLoader\\ObjLoader.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ibrahim Saadd\\Desktop\\Studying\\Obj Renderer\\Obj-Renderer\\ObjLoader\\ObjLoader.csproj",
+        "projectUniqueName": "C:\\Users\\Ibrahim Saad\\Desktop\\New folder\\Obj-Renderer\\ObjLoader\\ObjLoader.csproj",
         "projectName": "ObjLoader",
-        "projectPath": "C:\\Users\\Ibrahim Saadd\\Desktop\\Studying\\Obj Renderer\\Obj-Renderer\\ObjLoader\\ObjLoader.csproj",
-        "packagesPath": "C:\\Users\\Ibrahim Saadd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ibrahim Saadd\\Desktop\\Studying\\Obj Renderer\\Obj-Renderer\\ObjLoader\\obj\\",
+        "projectPath": "C:\\Users\\Ibrahim Saad\\Desktop\\New folder\\Obj-Renderer\\ObjLoader\\ObjLoader.csproj",
+        "packagesPath": "C:\\Users\\Ibrahim Saad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ibrahim Saad\\Desktop\\New folder\\Obj-Renderer\\ObjLoader\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ibrahim Saadd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ibrahim Saad\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

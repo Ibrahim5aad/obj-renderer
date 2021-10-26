@@ -1,20 +1,22 @@
-﻿using OpenTK.Windowing.Desktop;
+﻿using ObjRenderer.Views;
+using System;
 
 namespace ObjRenderer
 {
-  class Program
-  {
-    static void Main(string[] args)
+    /// <summary>
+    /// Class Program.
+    /// </summary>
+    class Program
     {
-
-      using (RendererWindow wnd = new RendererWindow())
-      {
-        wnd.RenderFrequency = 60.0;
-        wnd.Run();
-      }
-
-
-
+        /// <summary>
+        /// Defines the entry point of the application.
+        /// </summary>
+        /// <param name="args">The arguments.</param>
+        [STAThread]
+        static void Main(string[] args)
+        {
+            MainWindow wnd = new MainWindow();
+            wnd.ShowDialog();
+        }
     }
-  }
 }
